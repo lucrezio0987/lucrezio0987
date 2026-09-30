@@ -1,21 +1,30 @@
-<svg width="560" height="250" viewBox="0 0 560 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="560" height="275" viewBox="0 0 560 275" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="560" y2="250">
-    <stop stop-color="#101827"/><stop offset="1" stop-color="#0A101A"/>
-  </linearGradient>
-  <linearGradient id="a" x1="90" y1="35" x2="500" y2="220">
-    <stop stop-color="#49E9FF"/><stop offset="1" stop-color="#7B6CFF"/>
-  </linearGradient>
+  <linearGradient id="bg" x1="0" y1="0" x2="560" y2="275"><stop stop-color="#0F1929"/><stop offset="1" stop-color="#0A101A"/></linearGradient>
+  <linearGradient id="a" x1="350" y1="20" x2="540" y2="220"><stop stop-color="#49E9FF"/><stop offset="1" stop-color="#7B6CFF"/></linearGradient>
 </defs>
-<rect x="1" y="1" width="558" height="248" rx="28" fill="url(#bg)" stroke="#263650" stroke-width="2"/>
-<circle cx="78" cy="72" r="37" fill="#15243A" stroke="#2C466A"/>
-<text x="78" y="84" text-anchor="middle" font-size="38" font-family="Segoe UI Emoji">💻</text>
-<text x="132" y="61" fill="#F4F7FF" font-size="27" font-weight="800" font-family="Inter,Segoe UI,Arial">WakeCupPC</text>
-<rect x="132" y="76" width="125" height="28" rx="14" fill="#132A2D" stroke="#1F5E5F"/>
-<text x="194" y="95" text-anchor="middle" fill="#70F1E8" font-size="12" font-weight="700" font-family="Inter,Segoe UI,Arial">PUBLIC RELEASE</text>
-<text x="38" y="145" fill="#C6D2E6" font-size="18" font-family="Inter,Segoe UI,Arial">Keep your PC active, awake and ready</text>
-<text x="38" y="171" fill="#C6D2E6" font-size="18" font-family="Inter,Segoe UI,Arial">from your Android phone via Bluetooth.</text>
-<text x="38" y="216" fill="#7F91AC" font-size="14" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">ANDROID  /  BLUETOOTH  /  DESKTOP UTILITY</text>
-<path d="M430 44C482 64 518 105 532 161" stroke="url(#a)" stroke-width="3" stroke-linecap="round" opacity=".65"/>
-<circle cx="514" cy="151" r="7" fill="#6A78FF"/>
+<rect x="1" y="1" width="558" height="273" rx="28" fill="url(#bg)" stroke="#263B5A" stroke-width="2"/>
+<rect x="34" y="34" width="86" height="86" rx="24" fill="#101418" stroke="#294061"/>
+<g transform="translate(41 41) scale(.068)">
+  <rect x="150" y="205" width="660" height="440" rx="92" fill="#4C84FF"/>
+  <rect x="184" y="239" width="592" height="372" rx="64" fill="#1E272F"/>
+  <rect x="230" y="286" width="500" height="274" rx="46" fill="#2CBE7E"/>
+  <circle cx="386" cy="392" r="22" fill="#F6F9FA"/><circle cx="574" cy="392" r="22" fill="#F6F9FA"/>
+  <path d="M365 462C391 482 405 495 418 500C439 508 460 512 480 512C500 512 521 508 542 500C555 495 569 482 595 462" stroke="#F6F9FA" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="690" cy="320" r="18" fill="#F6F9FA"/><circle cx="690" cy="320" r="11" fill="#16754C"/>
+  <path d="M458 646V744M356 744H570" stroke="#8897A7" stroke-width="30" stroke-linecap="round"/>
+  <circle cx="782" cy="615" r="79" fill="#EBAB4F"/><circle cx="782" cy="615" r="48" fill="#101418"/>
+  <rect x="610" y="548" width="174" height="154" rx="32" fill="#FFEBC9"/>
+  <rect x="626" y="565" width="142" height="119" rx="22" fill="#EBAB4F"/>
+  <rect x="642" y="578" width="110" height="34" rx="14" fill="#845227"/>
+  <path d="M600 718H824" stroke="#FFEBC9" stroke-width="20" stroke-linecap="round"/>
+  <path d="M650 526C641 504 632 489 636 484C642 471 648 456 654 442M702 526C709 509 717 492 716 480C713 462 705 447 700 432M752 524C759 508 765 497 766 488" stroke="#FFEBC9" stroke-width="18" stroke-linecap="round"/>
+</g>
+<text x="142" y="65" fill="#F4F7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800">WakeCupPC</text>
+<rect x="142" y="80" width="127" height="28" rx="14" fill="#10302D" stroke="#1E635D"/>
+<text x="205.5" y="99" text-anchor="middle" fill="#69EFE3" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700">PUBLIC RELEASE</text>
+<text x="34" y="163" fill="#C8D4E7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Keep your PC active and ready from Android</text>
+<text x="34" y="189" fill="#C8D4E7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">using Bluetooth and simple scheduled controls.</text>
+<text x="34" y="235" fill="#7F91AC" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="14">ANDROID  /  BLUETOOTH  /  DESKTOP UTILITY</text>
+<path d="M430 35C480 56 516 99 530 157" stroke="url(#a)" stroke-width="3" stroke-linecap="round" opacity=".65"/>
 </svg>
