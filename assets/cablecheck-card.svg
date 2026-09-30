@@ -1,0 +1,21 @@
+<svg width="560" height="250" viewBox="0 0 560 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="560" y2="250">
+    <stop stop-color="#151424"/><stop offset="1" stop-color="#0B101A"/>
+  </linearGradient>
+  <linearGradient id="a" x1="100" y1="30" x2="510" y2="220">
+    <stop stop-color="#FFB15C"/><stop offset=".5" stop-color="#FF6B9C"/><stop offset="1" stop-color="#8E6CFF"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="558" height="248" rx="28" fill="url(#bg)" stroke="#2B3150" stroke-width="2"/>
+<circle cx="78" cy="72" r="37" fill="#282037" stroke="#54406C"/>
+<text x="78" y="84" text-anchor="middle" font-size="38" font-family="Segoe UI Emoji">⚡</text>
+<text x="132" y="61" fill="#F4F7FF" font-size="27" font-weight="800" font-family="Inter,Segoe UI,Arial">CableCheck</text>
+<rect x="132" y="76" width="136" height="28" rx="14" fill="#251D36" stroke="#5A4174"/>
+<text x="200" y="95" text-anchor="middle" fill="#D0A3FF" font-size="12" font-weight="700" font-family="Inter,Segoe UI,Arial">IN DEVELOPMENT</text>
+<text x="38" y="145" fill="#D5CDE4" font-size="18" font-family="Inter,Segoe UI,Arial">Test and compare charging performance,</text>
+<text x="38" y="171" fill="#D5CDE4" font-size="18" font-family="Inter,Segoe UI,Arial">cables, sessions and battery behaviour.</text>
+<text x="38" y="216" fill="#978AA8" font-size="14" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">ANDROID  /  CHARGING  /  BATTERY INSIGHTS</text>
+<path d="M434 42C487 65 520 104 532 162" stroke="url(#a)" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+<circle cx="516" cy="151" r="7" fill="#FF6B9C"/>
+</svg>
