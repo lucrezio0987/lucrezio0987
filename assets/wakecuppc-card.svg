@@ -1,0 +1,21 @@
+<svg width="560" height="250" viewBox="0 0 560 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="560" y2="250">
+    <stop stop-color="#101827"/><stop offset="1" stop-color="#0A101A"/>
+  </linearGradient>
+  <linearGradient id="a" x1="90" y1="35" x2="500" y2="220">
+    <stop stop-color="#49E9FF"/><stop offset="1" stop-color="#7B6CFF"/>
+  </linearGradient>
+</defs>
+<rect x="1" y="1" width="558" height="248" rx="28" fill="url(#bg)" stroke="#263650" stroke-width="2"/>
+<circle cx="78" cy="72" r="37" fill="#15243A" stroke="#2C466A"/>
+<text x="78" y="84" text-anchor="middle" font-size="38" font-family="Segoe UI Emoji">💻</text>
+<text x="132" y="61" fill="#F4F7FF" font-size="27" font-weight="800" font-family="Inter,Segoe UI,Arial">WakeCupPC</text>
+<rect x="132" y="76" width="125" height="28" rx="14" fill="#132A2D" stroke="#1F5E5F"/>
+<text x="194" y="95" text-anchor="middle" fill="#70F1E8" font-size="12" font-weight="700" font-family="Inter,Segoe UI,Arial">PUBLIC RELEASE</text>
+<text x="38" y="145" fill="#C6D2E6" font-size="18" font-family="Inter,Segoe UI,Arial">Keep your PC active, awake and ready</text>
+<text x="38" y="171" fill="#C6D2E6" font-size="18" font-family="Inter,Segoe UI,Arial">from your Android phone via Bluetooth.</text>
+<text x="38" y="216" fill="#7F91AC" font-size="14" font-family="ui-monospace,SFMono-Regular,Consolas,monospace">ANDROID  /  BLUETOOTH  /  DESKTOP UTILITY</text>
+<path d="M430 44C482 64 518 105 532 161" stroke="url(#a)" stroke-width="3" stroke-linecap="round" opacity=".65"/>
+<circle cx="514" cy="151" r="7" fill="#6A78FF"/>
+</svg>
